@@ -1,3 +1,15 @@
+nodejs-thrift (0.0.1-0sg7) UNRELEASED; urgency=low
+
+  [ Wade Simmons ]
+  * make note of the nodejs thrift compiler in the README
+  * make the URL to the thrift compiler a link
+  * update the example to match what the compiler creates
+  * add the ability to configure the timeout
+
+  [ SimpleGeo Nerds ]
+
+ -- SimpleGeo Nerds <nerds@simplegeo.com>  Tue, 07 Dec 2010 05:45:17 +0000
+
 nodejs-thrift (0.0.1-0sg4) UNRELEASED; urgency=low
 
   * UNRELEASED
